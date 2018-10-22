@@ -1,0 +1,55 @@
+{
+  "username": "tama",
+  "backups": [
+    {
+      "dateStarted": 1524268445,
+      "dateFinished": 1524354845,
+      "megabytesCopied": 62
+    },
+    {
+      "dateStarted": 1525433787,
+      "dateFinished": 1525520187,
+      "megabytesCopied": 78
+    },
+    {
+      "dateStarted": 1525668319,
+      "dateFinished": 1525754719,
+      "megabytesCopied": 3
+    },
+    {
+      "dateStarted": 1526794718,
+      "dateFinished": 1526881118,
+      "megabytesCopied": 69
+    },
+    {
+      "dateStarted": 1526827093,
+      "dateFinished": 1526913493,
+      "megabytesCopied": 88
+    },
+    {
+      "dateStarted": 1531489210,
+      "dateFinished": 1531575610,
+      "megabytesCopied": 25
+    },
+    {
+      "dateStarted": 1532214495,
+      "dateFinished": 1532300895,
+      "megabytesCopied": 67
+    },
+    {
+      "dateStarted": 1534127362,
+      "dateFinished": 1534213762,
+      "megabytesCopied": 8
+    },
+    {
+      "dateStarted": 1534827768,
+      "dateFinished": 1534914168,
+      "megabytesCopied": 59
+    },
+    {
+      "dateStarted": 1539461192,
+      "dateFinished": 1539547592,
+      "megabytesCopied": 72
+    }
+  ]
+}

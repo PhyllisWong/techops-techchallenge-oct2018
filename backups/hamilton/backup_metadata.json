@@ -1,0 +1,55 @@
+{
+  "username": "hamilton",
+  "backups": [
+    {
+      "dateStarted": 1516386491,
+      "dateFinished": 1516472891,
+      "megabytesCopied": 50
+    },
+    {
+      "dateStarted": 1521074625,
+      "dateFinished": 1521161025,
+      "megabytesCopied": 66
+    },
+    {
+      "dateStarted": 1522296045,
+      "dateFinished": 1522382445,
+      "megabytesCopied": 98
+    },
+    {
+      "dateStarted": 1525687080,
+      "dateFinished": 1525773480,
+      "megabytesCopied": 24
+    },
+    {
+      "dateStarted": 1526387511,
+      "dateFinished": 1526473911,
+      "megabytesCopied": 80
+    },
+    {
+      "dateStarted": 1528429303,
+      "dateFinished": 1528515703,
+      "megabytesCopied": 40
+    },
+    {
+      "dateStarted": 1533695500,
+      "dateFinished": 1533781900,
+      "megabytesCopied": 27
+    },
+    {
+      "dateStarted": 1534882051,
+      "dateFinished": 1534968451,
+      "megabytesCopied": 10
+    },
+    {
+      "dateStarted": 1537464998,
+      "dateFinished": 1537551398,
+      "megabytesCopied": 57
+    },
+    {
+      "dateStarted": 1538557888,
+      "dateFinished": 1538644288,
+      "megabytesCopied": 85
+    }
+  ]
+}

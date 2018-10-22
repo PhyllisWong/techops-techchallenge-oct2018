@@ -1,0 +1,55 @@
+{
+  "username": "lilbub",
+  "backups": [
+    {
+      "dateStarted": 1520048999,
+      "dateFinished": 1520135399,
+      "megabytesCopied": 66
+    },
+    {
+      "dateStarted": 1521750248,
+      "dateFinished": 1521836648,
+      "megabytesCopied": 45
+    },
+    {
+      "dateStarted": 1526440083,
+      "dateFinished": 1526526483,
+      "megabytesCopied": 51
+    },
+    {
+      "dateStarted": 1528067655,
+      "dateFinished": 1528154055,
+      "megabytesCopied": 43
+    },
+    {
+      "dateStarted": 1528621604,
+      "dateFinished": 1528708004,
+      "megabytesCopied": 98
+    },
+    {
+      "dateStarted": 1529524930,
+      "dateFinished": 1529611330,
+      "megabytesCopied": 12
+    },
+    {
+      "dateStarted": 1530486633,
+      "dateFinished": 1530573033,
+      "megabytesCopied": 89
+    },
+    {
+      "dateStarted": 1531773789,
+      "dateFinished": 1531860189,
+      "megabytesCopied": 10
+    },
+    {
+      "dateStarted": 1533098881,
+      "dateFinished": 1533185281,
+      "megabytesCopied": 52
+    },
+    {
+      "dateStarted": 1538674172,
+      "dateFinished": 1538760572,
+      "megabytesCopied": 96
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "username": "maru",
+  "backups": [
+    {
+      "dateStarted": 1518887174,
+      "dateFinished": 1518973574,
+      "megabytesCopied": 29
+    },
+    {
+      "dateStarted": 1519084252,
+      "dateFinished": 1519170652,
+      "megabytesCopied": 29
+    },
+    {
+      "dateStarted": 1519551558,
+      "dateFinished": 1519637958,
+      "megabytesCopied": 71
+    },
+    {
+      "dateStarted": 1519857894,
+      "dateFinished": 1519944294,
+      "megabytesCopied": 84
+    },
+    {
+      "dateStarted": 1526201922,
+      "dateFinished": 1526288322,
+      "megabytesCopied": 64
+    },
+    {
+      "dateStarted": 1526501645,
+      "dateFinished": 1526588045,
+      "megabytesCopied": 40
+    },
+    {
+      "dateStarted": 1536135312,
+      "dateFinished": 1536221712,
+      "megabytesCopied": 32
+    },
+    {
+      "dateStarted": 1536285046,
+      "dateFinished": 1536371446,
+      "megabytesCopied": 75
+    },
+    {
+      "dateStarted": 1536873096,
+      "dateFinished": 1536959496,
+      "megabytesCopied": 90
+    },
+    {
+      "dateStarted": 1538525345,
+      "dateFinished": 1538611745,
+      "megabytesCopied": 45
+    }
+  ]
+}

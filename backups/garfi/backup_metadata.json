@@ -1,0 +1,55 @@
+{
+  "username": "garfi",
+  "backups": [
+    {
+      "dateStarted": 1518163250,
+      "dateFinished": 1518249650,
+      "megabytesCopied": 85
+    },
+    {
+      "dateStarted": 1523561284,
+      "dateFinished": 1523647684,
+      "megabytesCopied": 62
+    },
+    {
+      "dateStarted": 1525063460,
+      "dateFinished": 1525149860,
+      "megabytesCopied": 22
+    },
+    {
+      "dateStarted": 1525453285,
+      "dateFinished": 1525539685,
+      "megabytesCopied": 34
+    },
+    {
+      "dateStarted": 1528158425,
+      "dateFinished": 1528244825,
+      "megabytesCopied": 45
+    },
+    {
+      "dateStarted": 1528818021,
+      "dateFinished": 1528904421,
+      "megabytesCopied": 18
+    },
+    {
+      "dateStarted": 1529884884,
+      "dateFinished": 1529971284,
+      "megabytesCopied": 1
+    },
+    {
+      "dateStarted": 1532095940,
+      "dateFinished": 1532182340,
+      "megabytesCopied": 25
+    },
+    {
+      "dateStarted": 1532656293,
+      "dateFinished": 1532742693,
+      "megabytesCopied": 83
+    },
+    {
+      "dateStarted": 1537612438,
+      "dateFinished": 1537698838,
+      "megabytesCopied": 34
+    }
+  ]
+}

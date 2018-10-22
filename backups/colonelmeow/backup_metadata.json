@@ -1,0 +1,55 @@
+{
+  "username": "colonelmeow",
+  "backups": [
+    {
+      "dateStarted": 1520474001,
+      "dateFinished": 1520560401,
+      "megabytesCopied": 48
+    },
+    {
+      "dateStarted": 1520567323,
+      "dateFinished": 1520653723,
+      "megabytesCopied": 90
+    },
+    {
+      "dateStarted": 1523724766,
+      "dateFinished": 1523811166,
+      "megabytesCopied": 43
+    },
+    {
+      "dateStarted": 1524256459,
+      "dateFinished": 1524342859,
+      "megabytesCopied": 96
+    },
+    {
+      "dateStarted": 1526898913,
+      "dateFinished": 1526985313,
+      "megabytesCopied": 32
+    },
+    {
+      "dateStarted": 1529725275,
+      "dateFinished": 1529811675,
+      "megabytesCopied": 31
+    },
+    {
+      "dateStarted": 1531635717,
+      "dateFinished": 1531722117,
+      "megabytesCopied": 38
+    },
+    {
+      "dateStarted": 1532895634,
+      "dateFinished": 1532982034,
+      "megabytesCopied": 12
+    },
+    {
+      "dateStarted": 1537262845,
+      "dateFinished": 1537349245,
+      "megabytesCopied": 52
+    },
+    {
+      "dateStarted": 1538151921,
+      "dateFinished": 1538238321,
+      "megabytesCopied": 29
+    }
+  ]
+}

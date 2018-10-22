@@ -1,0 +1,55 @@
+{
+  "username": "snoopy",
+  "backups": [
+    {
+      "dateStarted": 1515051669,
+      "dateFinished": 1515138069,
+      "megabytesCopied": 76
+    },
+    {
+      "dateStarted": 1516862565,
+      "dateFinished": 1516948965,
+      "megabytesCopied": 47
+    },
+    {
+      "dateStarted": 1519526347,
+      "dateFinished": 1519612747,
+      "megabytesCopied": 71
+    },
+    {
+      "dateStarted": 1520127045,
+      "dateFinished": 1520213445,
+      "megabytesCopied": 53
+    },
+    {
+      "dateStarted": 1521242811,
+      "dateFinished": 1521329211,
+      "megabytesCopied": 92
+    },
+    {
+      "dateStarted": 1522690559,
+      "dateFinished": 1522776959,
+      "megabytesCopied": 36
+    },
+    {
+      "dateStarted": 1523057819,
+      "dateFinished": 1523144219,
+      "megabytesCopied": 21
+    },
+    {
+      "dateStarted": 1533725611,
+      "dateFinished": 1533812011,
+      "megabytesCopied": 53
+    },
+    {
+      "dateStarted": 1537238975,
+      "dateFinished": 1537325375,
+      "megabytesCopied": 31
+    },
+    {
+      "dateStarted": 1538823429,
+      "dateFinished": 1538909829,
+      "megabytesCopied": 29
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "username": "grumpycat",
+  "backups": [
+    {
+      "dateStarted": 1515480688,
+      "dateFinished": 1515567088,
+      "megabytesCopied": 43
+    },
+    {
+      "dateStarted": 1518492868,
+      "dateFinished": 1518579268,
+      "megabytesCopied": 49
+    },
+    {
+      "dateStarted": 1520445232,
+      "dateFinished": 1520531632,
+      "megabytesCopied": 4
+    },
+    {
+      "dateStarted": 1525242172,
+      "dateFinished": 1525328572,
+      "megabytesCopied": 40
+    },
+    {
+      "dateStarted": 1525370665,
+      "dateFinished": 1525457065,
+      "megabytesCopied": 1
+    },
+    {
+      "dateStarted": 1526573418,
+      "dateFinished": 1526659818,
+      "megabytesCopied": 5
+    },
+    {
+      "dateStarted": 1531632805,
+      "dateFinished": 1531719205,
+      "megabytesCopied": 92
+    },
+    {
+      "dateStarted": 1537463177,
+      "dateFinished": 1537549577,
+      "megabytesCopied": 50
+    },
+    {
+      "dateStarted": 1538166545,
+      "dateFinished": 1538252945,
+      "megabytesCopied": 33
+    },
+    {
+      "dateStarted": 1538874119,
+      "dateFinished": 1538960519,
+      "megabytesCopied": 72
+    }
+  ]
+}
