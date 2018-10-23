@@ -6,6 +6,26 @@ We've created a fictional backup format, along with some mock backup data in the
 
 Some backup metadata may be missing, and some users may not have had any backups. Where there is no metadata file, write `ERR` in the CSV fields for that user. For instances where the user has no backups, write `N/A`.
 
+## Backup format
+
+Each user has a directory and a JSON backup metadata file. The metadata has the following format:
+
+```
+{
+  "username": <the username, identical to the backup directory>,
+  "backups": [
+    {
+      "dateStarted": <UNIX timestamp of when the backup started>,
+      "dateFinished": <UNIX timestamp of when the backup finished>,
+      "megabytesCopied": <number of megabytes copied in this backup>
+    },
+    ...
+  ]
+}
+```
+
+Each entry in `backups` represents a single successful backup, sorted in order of when that backup started from earliest to most recent.
+
 ## Requirements
 
 You will need functional installations of:
